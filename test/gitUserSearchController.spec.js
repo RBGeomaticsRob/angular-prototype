@@ -1,4 +1,4 @@
-describe('GitUserSearchController', function(){
+httpBadescribe('GitUserSearchController', function(){
   beforeEach(module('GitUserSearch'));
   var ctrl;
 
